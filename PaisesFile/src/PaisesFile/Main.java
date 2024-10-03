@@ -239,7 +239,7 @@ public class Main {
 				System.out.println("Aukera desegokia aukeratu ondo.");
 			}
 
-		} while (Aukera != 5);
+		} while (Aukera != 6);
 
 		sc.close(); 
 	}

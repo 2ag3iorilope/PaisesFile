@@ -12,8 +12,17 @@ import java.util.Scanner;
 
 
 
+// TODO: Auto-generated Javadoc
+/**
+ * The Class Main.
+ */
 public class Main {
 
+	/**
+	 * The main method.
+	 *
+	 * @param args the arguments
+	 */
 	public static void main(String[] args) {
 		
 		
@@ -22,6 +31,9 @@ public class Main {
 
 	}
 	
+	/**
+	 * Menua.
+	 */
 	public static void menua() {
 		
 		 String hasierakoLanDirektorioString;
@@ -63,7 +75,7 @@ public class Main {
 	            System.out.println("3. Gorde Herrialdeak Fitxategietan");
 	            System.out.println("4. Ezabatu fitxategiak .aad");
 	            System.out.println("5.Irten");
-	            System.out.print("Elige una opción: ");
+	            System.out.print("Aukeratu: ");
 	            
 	           
 	            Aukera = sc.nextInt();
